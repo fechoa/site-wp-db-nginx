@@ -4,8 +4,6 @@ With the help of docker-compose and docker technologies, I have created a full w
 With the help of bash scripts was written by the logic of the first run, which allows you to take this building to any user and get a box with a configured server with a database and configured wordpress
 SSL certificates were configured for encryption and all work is performed on port 443
 
-Translated with www.DeepL.com/Translator (free version)
-
 ## Technologies
 
 1. Docker-compose
