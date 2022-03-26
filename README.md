@@ -28,4 +28,4 @@ SSL certificates were configured for encryption and all work is performed on por
 
 ## Vizualization
 
-  <img src="./screen/docker.jpeg" width="600" alt="docker">
+  <img src="./screen/docker.jpg" width="600" alt="docker">
